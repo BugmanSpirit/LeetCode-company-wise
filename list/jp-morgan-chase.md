@@ -1,0 +1,3 @@
+| Title                                                                                                    | Acceptance   | Level   |
+|----------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Minimum Swaps to Make Strings Equal](https://leetcode.com/problems/minimum-swaps-to-make-strings-equal) | 60.1%        | Medium  |

@@ -1,0 +1,3 @@
+| Title                                                                                                          | Acceptance   | Level   |
+|----------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string) | 35.6%        | Medium  |

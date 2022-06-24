@@ -1,0 +1,3 @@
+| Title                                                                                                                                                          | Acceptance   | Level   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Maximum Length of a Concatenated String with Unique Characters](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters) | 47.8%        | Medium  |

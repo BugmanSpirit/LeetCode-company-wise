@@ -1,0 +1,3 @@
+| Title                                                                                                                          | Acceptance   | Level   |
+|--------------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Number of Burgers with No Waste of Ingredients](https://leetcode.com/problems/number-of-burgers-with-no-waste-of-ingredients) | 49.7%        | Medium  |

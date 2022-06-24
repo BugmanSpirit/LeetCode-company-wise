@@ -1,0 +1,4 @@
+| Title                                                                                                                                            | Acceptance   | Level   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | 70.3%        | Easy    |
+| [Employee Bonus](https://leetcode.com/problems/employee-bonus)                                                                                   | 68.2%        | Easy    |

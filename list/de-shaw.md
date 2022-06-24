@@ -1,0 +1,5 @@
+| Title                                                                                                                                      | Acceptance   | Level   |
+|--------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Relative Sort Array](https://leetcode.com/problems/relative-sort-array)                                                                   | 67.7%        | Easy    |
+| [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | 58.2%        | Medium  |
+| [Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three)                                           | 47.6%        | Medium  |

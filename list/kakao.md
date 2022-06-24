@@ -1,0 +1,3 @@
+| Title                                                                                                                      | Acceptance   | Level   |
+|----------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Minimum Moves to Reach Target with Rotations](https://leetcode.com/problems/minimum-moves-to-reach-target-with-rotations) | 45.2%        | Hard    |

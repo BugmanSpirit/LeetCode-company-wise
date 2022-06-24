@@ -1,0 +1,5 @@
+| Title                                                                                                                                            | Acceptance   | Level   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Ugly Number III](https://leetcode.com/problems/ugly-number-iii)                                                                                 | 25.9%        | Medium  |
+| [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target) | 43.2%        | Hard    |
+| [Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency)                                                                 | 33.5%        | Hard    |

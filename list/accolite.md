@@ -1,0 +1,3 @@
+| Title                                                                                                                | Acceptance   | Level   |
+|----------------------------------------------------------------------------------------------------------------------|--------------|---------|
+| [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string) | 33.2%        | Medium  |
