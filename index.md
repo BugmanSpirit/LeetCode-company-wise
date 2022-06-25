@@ -1,3 +1,4 @@
+|                                                      |                                                |                                                          |                                                |
 |------------------------------------------------------|------------------------------------------------|----------------------------------------------------------|------------------------------------------------|
 | [Accolite](./list/accolite.md)                       | [Adobe](./list/adobe.md)                       | [Aetion](./list/aetion.md)                               | [Affinity](./list/affinity.md)                 |
 | [Affirm](./list/affirm.md)                           | [Airbnb](./list/airbnb.md)                     | [Airtel](./list/airtel.md)                               | [Akamai](./list/akamai.md)                     |
